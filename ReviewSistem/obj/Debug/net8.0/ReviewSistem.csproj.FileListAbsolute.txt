@@ -1,0 +1,15 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\bin\Debug\net8.0\ReviewSistem.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\bin\Debug\net8.0\ReviewSistem.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\bin\Debug\net8.0\ReviewSistem.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\bin\Debug\net8.0\ReviewSistem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\bin\Debug\net8.0\ReviewSistem.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.sourcelink.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\refint\ReviewSistem.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ReviewSistem.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewSistem\obj\Debug\net8.0\ref\ReviewSistem.dll
