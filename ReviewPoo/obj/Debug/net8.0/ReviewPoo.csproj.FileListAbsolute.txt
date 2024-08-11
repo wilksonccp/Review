@@ -1,0 +1,15 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\bin\Debug\net8.0\ReviewPoo.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\bin\Debug\net8.0\ReviewPoo.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\bin\Debug\net8.0\ReviewPoo.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\bin\Debug\net8.0\ReviewPoo.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\bin\Debug\net8.0\ReviewPoo.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.sourcelink.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\refint\ReviewPoo.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ReviewPoo.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewPoo\obj\Debug\net8.0\ref\ReviewPoo.dll
