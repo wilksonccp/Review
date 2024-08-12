@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReviewScholl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d75daea61f892e873a838a6307fa12013e477d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+198070ae6a1a198232e9734262914ed291cb3afd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReviewScholl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReviewScholl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
