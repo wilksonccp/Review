@@ -1,0 +1,15 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\bin\Debug\net8.0\ReviewStore.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\bin\Debug\net8.0\ReviewStore.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\bin\Debug\net8.0\ReviewStore.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\bin\Debug\net8.0\ReviewStore.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\bin\Debug\net8.0\ReviewStore.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.sourcelink.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\refint\ReviewStore.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ReviewStore.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewStore\obj\Debug\net8.0\ref\ReviewStore.dll

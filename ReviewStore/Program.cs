@@ -31,7 +31,7 @@ namespace Exercicio1066
 
             //shou for user all informatios about product
             Console.WriteLine();
-            Console.WriteLine($"Dados do produto atualizados:\n {p}");
+            Console.WriteLine($"Dados do produto atualizados:\n{p}");
 
             // ask to user put the quantity of product to remove in stock
             Console.WriteLine();
@@ -41,7 +41,7 @@ namespace Exercicio1066
 
             //shou for user all informatios about product
             Console.WriteLine();
-            Console.WriteLine($"Dados do produto atualizados:\n {p}");
+            Console.WriteLine($"Dados do produto atualizados:\n{p}");
 
         }
     }
