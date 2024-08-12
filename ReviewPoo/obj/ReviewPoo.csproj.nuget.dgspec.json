@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj": {}
+    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj": {
+    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj",
+        "projectUniqueName": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj",
         "projectName": "ReviewPoo",
-        "projectPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj",
+        "projectPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\ReviewPoo.csproj",
         "packagesPath": "C:\\Users\\wilks\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\obj\\",
+        "outputPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewPoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wilks\\AppData\\Roaming\\NuGet\\NuGet.Config"
