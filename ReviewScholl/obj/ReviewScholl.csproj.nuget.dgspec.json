@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj": {}
+    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj": {
+    "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj",
+        "projectUniqueName": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj",
         "projectName": "ReviewScholl",
-        "projectPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj",
+        "projectPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\ReviewScholl.csproj",
         "packagesPath": "C:\\Users\\wilks\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\obj\\",
+        "outputPath": "C:\\Users\\wilks\\OneDrive\\Documentos\\APRENDENDO A PROGRAMAR\\CURSO C# COMPLETO\\revisao-PDFs\\ReviewProject\\ReviewScholl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wilks\\AppData\\Roaming\\NuGet\\NuGet.Config"
