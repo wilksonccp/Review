@@ -24,6 +24,6 @@ public class Product
     public override string ToString()
     {
         CultureInfo Culture = CultureInfo.InvariantCulture;
-        return $"{Name} R$ {Price}, {Amount} unidades, Total R$ {StockValue().ToString("F2", Culture)}";
+        return $"{Name} R$ {Price.ToString("f2", Culture)}, {Amount} unidades, Total R$ {StockValue().ToString("F2", Culture)}";
     }
 }
