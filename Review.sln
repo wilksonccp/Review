@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewPoo", "ReviewPoo\Revi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewStore", "ReviewStore\ReviewStore.csproj", "{C20B0DEC-5EAF-4B73-83D5-FA972363F34C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewScholl", "ReviewScholl\ReviewScholl.csproj", "{563A59DA-77D8-490A-9117-421E9DDF0B3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C20B0DEC-5EAF-4B73-83D5-FA972363F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C20B0DEC-5EAF-4B73-83D5-FA972363F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C20B0DEC-5EAF-4B73-83D5-FA972363F34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563A59DA-77D8-490A-9117-421E9DDF0B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563A59DA-77D8-490A-9117-421E9DDF0B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563A59DA-77D8-490A-9117-421E9DDF0B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563A59DA-77D8-490A-9117-421E9DDF0B3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
