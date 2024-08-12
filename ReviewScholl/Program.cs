@@ -20,7 +20,8 @@ namespace ReviewScholl
             a.Nc =double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             // show the enswers demanded
-            Console.Write($"NOTA FINAL {a.Finish().ToString("f2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"NOTA FINAL {a.Finish().ToString("f2", CultureInfo.InvariantCulture)}");
+            double fait = (a.Finish() - 60.00) *(-1);
             if (a.Result() == true)
             {
                 Console.WriteLine("APROVADO");
@@ -28,7 +29,7 @@ namespace ReviewScholl
             else
             {
                 Console.WriteLine("REPROVADO");
-                Console.WriteLine($"FALTARAM {a.Finish() - 60.00}");
+                Console.WriteLine($"FALTARAM {fait.ToString("f2", CultureInfo.InvariantCulture)} PONTOS");
             }
         }
     }

@@ -1,0 +1,15 @@
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\bin\Debug\net8.0\ReviewScholl.exe
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\bin\Debug\net8.0\ReviewScholl.deps.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\bin\Debug\net8.0\ReviewScholl.runtimeconfig.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\bin\Debug\net8.0\ReviewScholl.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\bin\Debug\net8.0\ReviewScholl.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.AssemblyInfoInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.AssemblyInfo.cs
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.csproj.CoreCompileInputs.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.sourcelink.json
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\refint\ReviewScholl.dll
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.pdb
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ReviewScholl.genruntimeconfig.cache
+c:\Users\wilks\OneDrive\Documentos\APRENDENDO A PROGRAMAR\CURSO C# COMPLETO\revisao-PDFs\ReviewProject\ReviewScholl\obj\Debug\net8.0\ref\ReviewScholl.dll
